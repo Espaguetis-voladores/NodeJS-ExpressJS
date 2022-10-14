@@ -1,0 +1,24 @@
+{
+  "name": "express-espaguetis",
+  "version": "1.0.0",
+  "description": "actividad de bootcamp express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Espaguetis-voladores/actividad-express.git"
+  },
+  "author": "Bernat, Agus, Cristian, Pol, Georgiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Espaguetis-voladores/actividad-express/issues"
+  },
+  "homepage": "https://github.com/Espaguetis-voladores/actividad-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "sass": "^1.55.0"
+  }
+}
